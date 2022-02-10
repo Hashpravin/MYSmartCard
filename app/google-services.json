@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562466642874",
+    "project_id": "mysmartcard-85c02",
+    "storage_bucket": "mysmartcard-85c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562466642874:android:5a35249448472edd2ddb83",
+        "android_client_info": {
+          "package_name": "com.example.mysmartcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562466642874-39mee1l8jt7j3tfuud9d7vfsu2kqp1lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4igp2HPvpavlkhhOHOqD8KzdE052YPZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562466642874-39mee1l8jt7j3tfuud9d7vfsu2kqp1lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
